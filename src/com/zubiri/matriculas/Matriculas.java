@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Matriculas {
 	//Atributos
-	static ArrayList<Matricula> matriculas = new ArrayList<Matricula>();
+	public static ArrayList<Matricula> matriculas = new ArrayList<Matricula>();
 
 	//Crear matriculas
 	public static ArrayList<Matricula> crearMatriculas(Scanner sc){

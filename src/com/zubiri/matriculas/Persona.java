@@ -20,7 +20,7 @@ public abstract class Persona {
 			this.setDni(sc.next());
 			System.out.println("Introduce el NOMBRE de la persona: ");
 			this.setNombre(sc.next());
-			System.out.println("Autor:");
+			System.out.println("Apellido:");
 			this.setApellido(sc.next());
 		}
 	
